@@ -1,0 +1,2 @@
+# mvim
+Minimal vim configuration
